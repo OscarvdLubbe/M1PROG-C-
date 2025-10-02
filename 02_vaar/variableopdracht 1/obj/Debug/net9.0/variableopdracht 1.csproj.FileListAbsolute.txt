@@ -1,0 +1,14 @@
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\variableopdracht 1\bin\Debug\net9.0\variableopdracht 1.exe
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\variableopdracht 1\bin\Debug\net9.0\variableopdracht 1.deps.json
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\variableopdracht 1\bin\Debug\net9.0\variableopdracht 1.runtimeconfig.json
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\variableopdracht 1\bin\Debug\net9.0\variableopdracht 1.dll
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\variableopdracht 1\bin\Debug\net9.0\variableopdracht 1.pdb
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\variableopdracht 1\obj\Debug\net9.0\variableopdracht 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\variableopdracht 1\obj\Debug\net9.0\variableopdracht 1.AssemblyInfoInputs.cache
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\variableopdracht 1\obj\Debug\net9.0\variableopdracht 1.AssemblyInfo.cs
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\variableopdracht 1\obj\Debug\net9.0\variableopdracht 1.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\variableopdracht 1\obj\Debug\net9.0\variableopdracht 1.dll
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\variableopdracht 1\obj\Debug\net9.0\refint\variableopdracht 1.dll
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\variableopdracht 1\obj\Debug\net9.0\variableopdracht 1.pdb
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\variableopdracht 1\obj\Debug\net9.0\variableopdracht 1.genruntimeconfig.cache
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\variableopdracht 1\obj\Debug\net9.0\ref\variableopdracht 1.dll

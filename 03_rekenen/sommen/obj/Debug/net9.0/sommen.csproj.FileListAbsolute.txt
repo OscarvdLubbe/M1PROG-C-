@@ -1,0 +1,14 @@
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\03_rekenen\sommen\bin\Debug\net9.0\sommen.exe
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\03_rekenen\sommen\bin\Debug\net9.0\sommen.deps.json
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\03_rekenen\sommen\bin\Debug\net9.0\sommen.runtimeconfig.json
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\03_rekenen\sommen\bin\Debug\net9.0\sommen.dll
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\03_rekenen\sommen\bin\Debug\net9.0\sommen.pdb
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\03_rekenen\sommen\obj\Debug\net9.0\sommen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\03_rekenen\sommen\obj\Debug\net9.0\sommen.AssemblyInfoInputs.cache
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\03_rekenen\sommen\obj\Debug\net9.0\sommen.AssemblyInfo.cs
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\03_rekenen\sommen\obj\Debug\net9.0\sommen.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\03_rekenen\sommen\obj\Debug\net9.0\sommen.dll
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\03_rekenen\sommen\obj\Debug\net9.0\refint\sommen.dll
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\03_rekenen\sommen\obj\Debug\net9.0\sommen.pdb
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\03_rekenen\sommen\obj\Debug\net9.0\sommen.genruntimeconfig.cache
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\03_rekenen\sommen\obj\Debug\net9.0\ref\sommen.dll

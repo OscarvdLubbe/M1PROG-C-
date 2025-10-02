@@ -1,0 +1,14 @@
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\fouten\bin\Debug\net9.0\fouten.exe
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\fouten\bin\Debug\net9.0\fouten.deps.json
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\fouten\bin\Debug\net9.0\fouten.runtimeconfig.json
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\fouten\bin\Debug\net9.0\fouten.dll
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\fouten\bin\Debug\net9.0\fouten.pdb
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\fouten\obj\Debug\net9.0\fouten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\fouten\obj\Debug\net9.0\fouten.AssemblyInfoInputs.cache
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\fouten\obj\Debug\net9.0\fouten.AssemblyInfo.cs
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\fouten\obj\Debug\net9.0\fouten.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\fouten\obj\Debug\net9.0\fouten.dll
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\fouten\obj\Debug\net9.0\refint\fouten.dll
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\fouten\obj\Debug\net9.0\fouten.pdb
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\fouten\obj\Debug\net9.0\fouten.genruntimeconfig.cache
+C:\Users\oscar\OneDrive\Desktop\schoolwerk\M1PROG_C#\02_vaar\fouten\obj\Debug\net9.0\ref\fouten.dll
